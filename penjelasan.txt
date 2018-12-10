@@ -1,0 +1,25 @@
+HALLO Assalamualaikum warahmatullahi wabarakatuh!!!!
+
+hay teman-teman... selamat sore...
+silahkan isi data kamu!!
+salam syang dari aku..
+
+
+
+InputSream dan OutputStream merupakan kelas abstrak yang
+dirancang sebagai kelas induk untuk kelas – kelas yang termasuk
+dalam kategori stream byte. Sedangkan Reader dan Writer merupakan
+kelas abstrak yang akan diturunkan menjadi kelas baru dalam kategori
+stream karakter. Melalui proses pewarisan (inheritance), semua kelas
+yang diturunkan dari kelas InputStream dan Reader memiliki method
+read() untuk melakukan pembacaan data. Sedangkan kelas yang
+diturunkan dari kelas OutputStream dan Writer memiliki method
+write() yang digunakan untuk melakukan penulisan data.
+
+Menggunakan kelas Byte stream atau Character stream? Dari
+referensi yang saya baca, jika kita bekerja dengan data bukan binary,
+maka sebaiknya kita menggunakan kelas-kelas yang diturunkan dari kelas
+Reader dan Writer (Character stream)
+
+
+Wassalamualaikum warahmatullahi wabarakatuh
